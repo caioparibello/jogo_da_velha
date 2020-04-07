@@ -1,0 +1,5 @@
+languege: python
+python:
+        - "3.6"
+script:
+        - cd src; python testes.py
